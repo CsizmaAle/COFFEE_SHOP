@@ -1,6 +1,6 @@
 # ☕ Coffee Shop Management System ☕  
 
->**Last update:** ~March 2025
+>**Last update:** March 2025
 
 A CustomTkinter-based GUI application for managing a coffee shop, built in Python. This project helps streamline order processing, inventory management, and menu customization.  
   
